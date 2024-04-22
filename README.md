@@ -33,6 +33,7 @@ This phase we gather relevant data pertaining to the customer churn analysis. It
 The following hypotheses was formulated based on the business objectives and data exploration findings.
 * Null Hypothesis: There is no relationship between the tenure and the churn of customers.
 * Alternate Hypothesis: There is a relationship between the tenure and the churn of customers.
+
 Based on the p-value (which is far below the significance level of 0.05), we reject the null hypothesis. This means that there is sufficient evidence to conclude that there is a statistically significant relationship between tenure and churn.
 
 ## Answering the Analytical Questions
