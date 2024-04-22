@@ -23,3 +23,37 @@ This phase we gather relevant data pertaining to the customer churn analysis. It
 ## Univariate Analysis
 ![image](https://github.com/AndyMortey/A-Classification-Project-The-Customer-Churn-Analysis/assets/121693394/96bc25a8-98ff-4494-9435-fe5ac7cb7f5d)
 
+## Bivariate Analysis
+![image](https://github.com/AndyMortey/A-Classification-Project-The-Customer-Churn-Analysis/assets/121693394/a11c0102-b464-43b7-af3e-e9286a50864e)
+
+## Multivariate Analysis
+![image](https://github.com/AndyMortey/A-Classification-Project-The-Customer-Churn-Analysis/assets/121693394/f9168f43-23d9-4ed9-a197-27a255ac5a3d)
+
+## Hypothesis Testing
+The following hypotheses was formulated based on the business objectives and data exploration findings.
+* Null Hypothesis: There is no relationship between the tenure and the churn of customers.
+* Alternate Hypothesis: There is a relationship between the tenure and the churn of customers.
+Based on the p-value (which is far below the significance level of 0.05), we reject the null hypothesis. This means that there is sufficient evidence to conclude that there is a statistically significant relationship between tenure and churn.
+
+## Answering the Analytical Questions
+1. What is the overall churn rate against retained customers?
+2. Does churn rate differ based on the payment method?
+3. What is the churn rate of customers based on their seniority?
+4. What is the churn rate of customers based on their monthlycharges?
+5. What is the churn rate of customers based on their contract type?
+6. What is the churn rate of customers based on their gender?
+
+## Resources
+* The article published on medium can be accessed via this [link](https://medium.com/@morteyandrews/the-customer-churn-analysis-9a95b4b428a5)
+* The Power Bi dashboard can also be accessed [here](https://app.powerbi.com/groups/me/reports/b91eb228-d90a-4f3a-bbf9-e85c3a6339ed/ReportSection?experience=power-bi&bookmarkGuid=Bookmarkfa80bda3095b0eb57101)
+
+## Appreciation
+I highly recommend Azubi Africa for their comprehensive and effective programs. Read More articles about [Azubi Africa here](https://medium.com/@azubiafrica) and take a few minutes to visit this link to learn more about Azubi Africa life-changing [programs](https://bit.ly/41CGCwK)
+
+## Tags
+[Azubi Data Science](https://bit.ly/3ARq742)
+
+
+
+
+
